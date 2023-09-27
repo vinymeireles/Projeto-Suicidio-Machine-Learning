@@ -12,7 +12,7 @@ with open('style.css')as f:
 st.markdown("<h2 style='text-align: center; color: red;'>Contatos</h2>", unsafe_allow_html=True)
 
 
-st.markdown("Para desenvolvimento de novos projetos - Dashboard utilizando Inteligência Articial: Machine Learning")
+st.markdown("**Para desenvolvimento de novos projetos - Dashboard utilizando Inteligência Articial: Machine Learning**")
 st.divider()
 st.markdown("")
 

@@ -277,7 +277,7 @@ if st.sidebar.checkbox(" ⏰ **Previsões futuras**", False, key=7):
     st.info(f'Accuracy: {round(accuracy*100,2)} %')
     st.divider()
 
-    st.info('✅ Conclusão: A tendência que ao passar dos anos a taxa de suicídio mundial diminua, devido as campanhas realizadas pelo governo  sobre a importância da conscientização e do cuidado com a saúde mental. Informação é o primeiro passo de qualquer tratamento. No Brasil é realizado o Setembro Amarelo.')
+    st.info('✅ Conclusão: A tendência é que, com o decorrer dos anos, a taxa de suicídio mundial diminua devido as campanhas realizadas pelos governos sobre a importância da conscientização e do cuidado com a saúde mental.')
        
 
 
